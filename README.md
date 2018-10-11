@@ -1,26 +1,11 @@
 # chatroom-page
 
-## Project setup
-```
-npm install
-```
+websocket-chatroom的前端部分。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+使用`vue-cli3`构建项目，并使用`vuetify`UI库。
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
+---
+vue-cli2 与 vue-cli3的不同之处，以及如何升级旧项目可参考此博文：
 
-### Lints and fixes files
-```
-npm run lint
-```
+[使用Vue-cli 3.0搭建Vue项目](https://www.jianshu.com/p/6307c568832d)
